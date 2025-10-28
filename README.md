@@ -22,7 +22,5 @@ It connects to a PostgreSQL database, handles user switching, and dynamically di
 - Store data persistently in PostgreSQL
 - Runs on port 3001
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rudhar-cmd/family-tracker.git
+![speed](https://github.com/user-attachments/assets/f09f48c6-af7e-4fd2-950e-ac6ee276fec3)
+
